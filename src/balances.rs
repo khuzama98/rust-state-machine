@@ -1,6 +1,6 @@
 /* TODO: You might need to import some stuff for this step. */
-use std::collections::BTreeMap;
 use num::{CheckedAdd, CheckedSub, Zero};
+use std::collections::BTreeMap;
 
 /*
     TODO:
